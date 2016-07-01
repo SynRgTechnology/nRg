@@ -1,0 +1,4 @@
+[submodule "nRg"]
+	path = nRg
+	url = https://github.com/SynRgTechnology/nRg.git
+	branch = gh-pages
